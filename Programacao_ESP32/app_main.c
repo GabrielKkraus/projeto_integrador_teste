@@ -1,6 +1,6 @@
-##Usando o VS Code para programação da ESP32##
-##Para conseguir usar o VS Code é necessário nele instalar uma extensão chamada ESPRESSIF IDF e a extensão da linguagem C.
-##O código abaixo é um exemplo que faz a conexão da ESP32 em uma rede Wifi de 2.4GHz. Após conectada, é mostrado no terminal o IP obtido pela ESP e com este é possível acessar uma página web e enviar uma mensagem da web para o terminal.
+//Usando o VS Code para programação da ESP32##
+//Para conseguir usar o VS Code é necessário nele instalar uma extensão chamada ESPRESSIF IDF e a extensão da linguagem C.
+//O código abaixo é um exemplo que faz a conexão da ESP32 em uma rede Wifi de 2.4GHz. Após conectada, é mostrado no terminal o IP obtido pela ESP e com este é possível acessar uma página web e enviar uma mensagem da web para o terminal.
 
 
 #include <stdio.h>
